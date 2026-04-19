@@ -21,6 +21,7 @@ Please take note that all of those books are amazing and are worthy of your time
 - 🅰🅰 The Mythical Man-Month (Frederick Brooks) [🔗](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - 🅰🅰 A philosophy of software design (J. Ousterhout) [🔗](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X)
 - 🅰🅰 The Rust Programming Language (S. Klabnik and C. Nichols, with contributions from the Rust Community) [🔗](https://doc.rust-lang.org/book/)
+- 🅰🅰 Microservices patterns (Chris Richardson) [🔗](https://microservices.io/book)
 
 ## A tier
 - 🅰 Head First Design Patterns (E. Freeman) [🔗](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
